@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics, Tsinghua University, 2025 (expected)
-* M.S. in Mathematics, Xinjiang University, 2021
-* B.S. in Mathematics, Xinjiang University, 2018
+* Ph.D  in Mathematics, Tsinghua University, 2025 (expected)
+* M.S.  in Mathematics, Xinjiang University, 2021
+* B.S.  in Mathematics, Xinjiang University, 2018
 
+<!--
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -31,7 +32,7 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+
 Skills
 ======
 * Skill 1
@@ -40,6 +41,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+-->
 
 Publications
 ======
@@ -58,7 +60,9 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!--
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
