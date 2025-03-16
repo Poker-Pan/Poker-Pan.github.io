@@ -11,9 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D  in Mathematics, Tsinghua University, 2025 (expected)
-* M.S.  in Mathematics, Xinjiang University, 2021
-* B.S.  in Mathematics, Xinjiang University, 2018
+* Sep. 2021 - Dec. 2025 (expected): Ph.D in Mathematics, Department of Mathematical Sciences, Tsinghua University, Beijing, China.
+* Sep. 2018 - Jul 2021: M.S. in Mathematics, College of Mathematics and Systems Science, Xinjiang University, Urumqi, China.
+* Sep. 2014 - Jul 2018: B.S. in Mathematics, College of Mathematics and Systems Science, Xinjiang University, Urumqi, China.
+
+
+Position
+======
+
+
+Research Interests
+======
 
 <!--
 Work experience
