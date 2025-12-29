@@ -18,9 +18,9 @@ I am also interested in the research field of solving PDEs using **Deep Learning
 
 ## Education
 
-- **Ph.D. in Mathematics**, Tsinghua University, 2021–2025  
-- **M.S. in Mathematics**, Xinjiang University, 2018–2021  
-- **B.S. in Mathematics**, Xinjiang University, 2014–2018  
+- Ph.D. in Mathematics, Tsinghua University, 2021–2025  
+- M.S. in Mathematics, Xinjiang University, 2018–2021  
+- B.S. in Mathematics, Xinjiang University, 2014–2018  
 
 ---
 
