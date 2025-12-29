@@ -10,7 +10,7 @@ redirect_from:
 ## About Me
 
 Currently, I am a lecturer at **Xinjiang University**. 
-I graduated from the Department of Mathematical Sciences at Tsinghua University and was under the guidance of **Prof. Shi Zuqiang**. 
+I graduated from the Department of Mathematical Sciences at Tsinghua University and was under the guidance of **Prof. Shi Zuoqiang**. 
 My research interests lie in **Optimal Transport** and **Numerical PDEs**, with a particular emphasis on **Unbalanced Optimal Transport on Surfaces**. 
 I am also interested in the research field of solving PDEs using **Deep Learning**. 
 
