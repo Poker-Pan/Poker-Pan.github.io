@@ -50,5 +50,3 @@ I am also interested in the research field of solving PDEs using **Deep Learning
 
 
 ---
-
-![](https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey)
