@@ -46,7 +46,7 @@ I am also interested in the research field of solving PDEs using **Deep Learning
 
 ## Teaching Experience
 
-- Machine Learning, 2026 Spring
+{% include teaching_experience.html %}
 
 
 ---
