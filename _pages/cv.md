@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+
 {% include education_experience.html %}
 
 Position

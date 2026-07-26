@@ -11,7 +11,7 @@ redirect_from:
 
 Currently, I am a lecturer and master's supervisor in **Xinjiang University**. 
 I graduated from the Department of Mathematical Sciences at Tsinghua University and was under the guidance of **Prof. Shi Zuoqiang**. 
-My research interests lie in **Optimal Transport** and **Numerical PDEs**, with a particular emphasis on **Unbalanced Optimal Transport on Surfaces**. 
+My research interests lie in **Deep Learning** and **Numerical PDEs**, with a particular emphasis on **Unbalanced Optimal Transport on Surfaces**. 
 I am also interested in the research field of solving PDEs using **Deep Learning**. 
 
 ---
@@ -30,9 +30,11 @@ I am also interested in the research field of solving PDEs using **Deep Learning
 
 ## Research Interests
 
-- Unbalanced Optimal Transport / Optimal Transport
-- Numerical Methods for PDEs 
 - Deep Learning
+- Numerical Methods for PDEs 
+- Unbalanced Optimal Transport / Optimal Transport
+- Surface Navier-Stokes Equation
+
 
 ---
 
