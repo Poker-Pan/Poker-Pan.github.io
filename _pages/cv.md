@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-{% include education.html %}
+{% include education_experience.html %}
 
 Position
 ======
+
+{% include position.html %}
 
 
 Research Interests
