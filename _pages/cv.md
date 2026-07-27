@@ -23,6 +23,11 @@ Position
 Research Interests
 ======
 
+- Deep Learning
+- Numerical Methods for PDEs 
+- Unbalanced Optimal Transport / Optimal Transport
+- Surface Navier-Stokes Equation
+
 <!--
 Work experience
 ======
