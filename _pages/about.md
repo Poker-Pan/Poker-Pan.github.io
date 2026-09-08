@@ -35,6 +35,11 @@ I am also interested in the research field of solving PDEs using **Deep Learning
 - Unbalanced Optimal Transport / Optimal Transport
 - Surface Navier-Stokes Equation
 
+---
+
+## Foundation
+
+- None
 
 ---
 
